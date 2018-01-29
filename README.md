@@ -1,3 +1,5 @@
+Click to review with a [video walk-through](https://youtu.be/cZTpzU8dYp8).
+
 # Using the Console & Introducing Operators
 
 Open up your console! For instructions on how to view the console in the Google Chrome Developer Tools, go [here](https://developer.chrome.com/devtools#access).
