@@ -1,4 +1,4 @@
-Click to review with a [video walk-through](https://youtu.be/cZTpzU8dYp8).
+Click to review with a [video walk-through](https://youtu.be/DLAVrinGCTA).
 
 # Using the Console & Introducing Operators
 
